@@ -13,11 +13,21 @@
 * 2019년 3월 한림대학교 화학과 입학   
 * 2020년 3월 한림대학교 소프트웨어학부로 소속 변경
 
-### 학력
+### 🏫학력
 |구분|기간|학교명|성적|
 |---|---|---|---|
 |고등학교|2018-03 ~ 2020-02|선정고등학교|---|
 |대학교|2019-03 ~ ing|한림대학교|4.02/4.5|
+
+
+
+<div align="center"><h3> 🔧 Tech & Tool 🔧</h3> </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/java-3766AB?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
  
 ### 📚수강 주요 과목 소개
 
@@ -93,12 +103,3 @@
 |기간|부서|기관|
 |---|---|---|
 |2023-03-02~2023-06-30|AI Vision 부서|삼성 메디슨|
-
-
-<div align="center"><h3> 🔧 Tech & Tool 🔧</h3> </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-3766AB?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
